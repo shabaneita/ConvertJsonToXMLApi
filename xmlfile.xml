@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DsClaims xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ttLot>
+    <Lot>
+      <lotNo>1</lotNo>
+      <batchDate>2023-09-03T00:00:00</batchDate>
+      <batchType>Send</batchType>
+    </Lot>
+  </ttLot>
+  <ttClaims>
+    <Claim>
+      <MdgfClaimNumber>2023/1706505</MdgfClaimNumber>
+      <HCPID>12033</HCPID>
+      <InsuredID>83616569</InsuredID>
+      <DateOfBirth>1995-10-20T00:00:00</DateOfBirth>
+      <Gender>Female</Gender>
+      <OccurenceDate>2023-04-05T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>J45</PrimaryDiagnosis>
+      <SecondaryICDs>J20</SecondaryICDs>
+      <PolicyNo>GRH/14873558</PolicyNo>
+      <PractionerId>4800152319</PractionerId>
+      <SpecialityCode>19.19</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1706507</MdgfClaimNumber>
+      <HCPID>12033</HCPID>
+      <InsuredID>88327279</InsuredID>
+      <DateOfBirth>1988-11-18T00:00:00</DateOfBirth>
+      <Gender>Male</Gender>
+      <OccurenceDate>2023-04-09T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>E55</PrimaryDiagnosis>
+      <SecondaryICDs>D51.9</SecondaryICDs>
+      <PolicyNo>GRH/14208367</PolicyNo>
+      <PractionerId>4800176035</PractionerId>
+      <SpecialityCode>11.07</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1706508</MdgfClaimNumber>
+      <HCPID>12033</HCPID>
+      <InsuredID>81523171</InsuredID>
+      <DateOfBirth>1981-03-22T00:00:00</DateOfBirth>
+      <Gender>Male</Gender>
+      <OccurenceDate>2023-04-15T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>J30.4</PrimaryDiagnosis>
+      <SecondaryICDs />
+      <PolicyNo>GRH/14873558</PolicyNo>
+      <PractionerId>4800123073</PractionerId>
+      <SpecialityCode>08.09</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1706509</MdgfClaimNumber>
+      <HCPID>12033</HCPID>
+      <InsuredID>81598736</InsuredID>
+      <DateOfBirth>1988-05-29T00:00:00</DateOfBirth>
+      <Gender>Male</Gender>
+      <OccurenceDate>2023-04-25T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>J06.9</PrimaryDiagnosis>
+      <SecondaryICDs>J20</SecondaryICDs>
+      <PolicyNo>GRH/14873558</PolicyNo>
+      <PractionerId>4800439077</PractionerId>
+      <SpecialityCode>08.10</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1706511</MdgfClaimNumber>
+      <HCPID>12033</HCPID>
+      <InsuredID>81264792</InsuredID>
+      <DateOfBirth>2015-08-13T00:00:00</DateOfBirth>
+      <Gender>Female</Gender>
+      <OccurenceDate>2023-04-25T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>J06.9</PrimaryDiagnosis>
+      <SecondaryICDs>J45.9</SecondaryICDs>
+      <PolicyNo>GRH/14873558</PolicyNo>
+      <PractionerId>4800439077</PractionerId>
+      <SpecialityCode>08.10</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1706512</MdgfClaimNumber>
+      <HCPID>12033</HCPID>
+      <InsuredID>98607744</InsuredID>
+      <DateOfBirth>1956-01-01T00:00:00</DateOfBirth>
+      <Gender>Male</Gender>
+      <OccurenceDate>2023-04-29T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>R10</PrimaryDiagnosis>
+      <SecondaryICDs>N40</SecondaryICDs>
+      <PolicyNo>GRH/14984165</PolicyNo>
+      <PractionerId>4800086328</PractionerId>
+      <SpecialityCode>22.06</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1698365</MdgfClaimNumber>
+      <HCPID>4492371</HCPID>
+      <InsuredID>96032101</InsuredID>
+      <DateOfBirth>2022-03-21T00:00:00</DateOfBirth>
+      <Gender>Female</Gender>
+      <OccurenceDate>2022-09-24T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>R50.9</PrimaryDiagnosis>
+      <SecondaryICDs />
+      <PolicyNo>GRH/14229074</PolicyNo>
+      <PractionerId>1321</PractionerId>
+      <SpecialityCode>14.00</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1698366</MdgfClaimNumber>
+      <HCPID>4492371</HCPID>
+      <InsuredID>96032101</InsuredID>
+      <DateOfBirth>2022-03-21T00:00:00</DateOfBirth>
+      <Gender>Female</Gender>
+      <OccurenceDate>2022-09-12T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>J06.8</PrimaryDiagnosis>
+      <SecondaryICDs>J45.0|K21|J06.8</SecondaryICDs>
+      <PolicyNo>GRH/14229074</PolicyNo>
+      <PractionerId>1321</PractionerId>
+      <SpecialityCode>14.00</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1698367</MdgfClaimNumber>
+      <HCPID>4492371</HCPID>
+      <InsuredID>96032085</InsuredID>
+      <DateOfBirth>1986-09-08T00:00:00</DateOfBirth>
+      <Gender>Female</Gender>
+      <OccurenceDate>2022-09-19T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>R10.2</PrimaryDiagnosis>
+      <SecondaryICDs>N91.2</SecondaryICDs>
+      <PolicyNo>GRH/14229074</PolicyNo>
+      <PractionerId>1303</PractionerId>
+      <SpecialityCode>10.00</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+    <Claim>
+      <MdgfClaimNumber>2023/1698368</MdgfClaimNumber>
+      <HCPID>4492371</HCPID>
+      <InsuredID>96032093</InsuredID>
+      <DateOfBirth>2016-09-30T00:00:00</DateOfBirth>
+      <Gender>Male</Gender>
+      <OccurenceDate>2022-09-12T00:00:00</OccurenceDate>
+      <PrimaryDiagnosis>J06.8</PrimaryDiagnosis>
+      <SecondaryICDs>J30</SecondaryICDs>
+      <PolicyNo>GRH/14229074</PolicyNo>
+      <PractionerId>1321</PractionerId>
+      <SpecialityCode>14.00</SpecialityCode>
+      <ClaimBenefit>Out Patient</ClaimBenefit>
+      <LengthOfStay>0</LengthOfStay>
+      <DischargeDiagnosisCode />
+      <DischargeOtherDiag />
+    </Claim>
+  </ttClaims>
+  <ttServices>
+    <Service>
+      <MdgfClaimNumber>2023/1706505</MdgfClaimNumber>
+      <ServiceType>procedures</ServiceType>
+      <ServiceLineNo>1</ServiceLineNo>
+      <ServiceCode>11503-05-00</ServiceCode>
+      <HCPCode>ER064</HCPCode>
+      <ServiceDescription>Spirometry with exercise testing
+Test , pulmonary function</ServiceDescription>
+      <StartDate>2023-04-05T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>665</UnitPrice>
+      <PatientShareLC>33.25</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706507</MdgfClaimNumber>
+      <ServiceType>procedures</ServiceType>
+      <ServiceLineNo>1</ServiceLineNo>
+      <ServiceCode>96197-19-00</ServiceCode>
+      <HCPCode>ER028</HCPCode>
+      <ServiceDescription>Intramuscular administration of pharmacological agent, other and unspecified pharmacological agent
+Injection IM without medicine</ServiceDescription>
+      <StartDate>2023-04-09T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>67</UnitPrice>
+      <PatientShareLC>6.7</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706508</MdgfClaimNumber>
+      <ServiceType>services</ServiceType>
+      <ServiceLineNo>1</ServiceLineNo>
+      <ServiceCode>83600-00-20</ServiceCode>
+      <HCPCode>OT503</HCPCode>
+      <ServiceDescription>Office Assessment for diagnosis and treatment and counselling of a new or established patient by Consultant
+E. N. T examination fees (consultant)</ServiceDescription>
+      <StartDate>2023-04-15T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>190</UnitPrice>
+      <PatientShareLC>19</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706509</MdgfClaimNumber>
+      <ServiceType>services</ServiceType>
+      <ServiceLineNo>1</ServiceLineNo>
+      <ServiceCode>83600-00-90</ServiceCode>
+      <HCPCode>OT522</HCPCode>
+      <ServiceDescription>Assessment of emergency case within ERD by Licensed physician
+ER Physician</ServiceDescription>
+      <StartDate>2023-04-25T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>190</UnitPrice>
+      <PatientShareLC>19</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706511</MdgfClaimNumber>
+      <ServiceType>services</ServiceType>
+      <ServiceLineNo>1</ServiceLineNo>
+      <ServiceCode>83600-00-90</ServiceCode>
+      <HCPCode>OT522</HCPCode>
+      <ServiceDescription>Assessment of emergency case within ERD by Licensed physician
+ER Physician</ServiceDescription>
+      <StartDate>2023-04-25T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>190</UnitPrice>
+      <PatientShareLC>19</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706511</MdgfClaimNumber>
+      <ServiceType>medication-codes</ServiceType>
+      <ServiceLineNo>2</ServiceLineNo>
+      <ServiceCode>06285101000485</ServiceCode>
+      <HCPCode>54-334-01</HCPCode>
+      <ServiceDescription>MEGAMOX 457MG SUSP.(Amoxicillin ,Clavulanic Acid)
+MEGAMOX 457MG SUSP.(Amoxicillin ,Clavulanic Acid)</ServiceDescription>
+      <StartDate>2023-04-25T00:00:00</StartDate>
+      <RQuantity>2</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>29.55</UnitPrice>
+      <PatientShareLC>11</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706511</MdgfClaimNumber>
+      <ServiceType>medication-codes</ServiceType>
+      <ServiceLineNo>3</ServiceLineNo>
+      <ServiceCode>06291100080045</ServiceCode>
+      <HCPCode>307-186-21</HCPCode>
+      <ServiceDescription>ADOL 250 MG SUPP. (Paracetamol)
+ADOL 250 MG SUPP. (Paracetamol)</ServiceDescription>
+      <StartDate>2023-04-25T00:00:00</StartDate>
+      <RQuantity>2</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>6.1</UnitPrice>
+      <PatientShareLC>2</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706512</MdgfClaimNumber>
+      <ServiceType>services</ServiceType>
+      <ServiceLineNo>1</ServiceLineNo>
+      <ServiceCode>83600-00-20</ServiceCode>
+      <HCPCode>OT503</HCPCode>
+      <ServiceDescription>Office Assessment for diagnosis and treatment and counselling of a new or established patient by Consultant
+Urology examination fees (consultant)</ServiceDescription>
+      <StartDate>2023-04-29T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>190</UnitPrice>
+      <PatientShareLC>38</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706512</MdgfClaimNumber>
+      <ServiceType>laboratory</ServiceType>
+      <ServiceLineNo>2</ServiceLineNo>
+      <ServiceCode>73050-09-80</ServiceCode>
+      <HCPCode>LB226</HCPCode>
+      <ServiceDescription>Measurement of Creatinine; total; blood
+Creatinine</ServiceDescription>
+      <StartDate>2023-04-29T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>181</UnitPrice>
+      <PatientShareLC>18.1</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706512</MdgfClaimNumber>
+      <ServiceType>laboratory</ServiceType>
+      <ServiceLineNo>3</ServiceLineNo>
+      <ServiceCode>73050-37-70</ServiceCode>
+      <HCPCode>LB227</HCPCode>
+      <ServiceDescription>Measurement of uric Acid in blood
+Uric acid</ServiceDescription>
+      <StartDate>2023-04-29T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>181</UnitPrice>
+      <PatientShareLC>18.1</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706512</MdgfClaimNumber>
+      <ServiceType>laboratory</ServiceType>
+      <ServiceLineNo>4</ServiceLineNo>
+      <ServiceCode>73150-01-20</ServiceCode>
+      <HCPCode>LB411</HCPCode>
+      <ServiceDescription>Unlisted urinalysis
+Urine</ServiceDescription>
+      <StartDate>2023-04-29T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>137</UnitPrice>
+      <PatientShareLC>13.7</PatientShareLC>
+    </Service>
+    <Service>
+      <MdgfClaimNumber>2023/1706512</MdgfClaimNumber>
+      <ServiceType>imaging</ServiceType>
+      <ServiceLineNo>5</ServiceLineNo>
+      <ServiceCode>55038-00-00</ServiceCode>
+      <HCPCode>XR281</HCPCode>
+      <ServiceDescription>Ultrasound of urinary tract
+Urinary System U/S</ServiceDescription>
+      <StartDate>2023-04-29T00:00:00</StartDate>
+      <RQuantity>1</RQuantity>
+      <Duration>0</Duration>
+      <UnitPrice>1065</UnitPrice>
+      <PatientShareLC>12.1</PatientShareLC>
+    </Service>
+  </ttServices>
+</DsClaims>
