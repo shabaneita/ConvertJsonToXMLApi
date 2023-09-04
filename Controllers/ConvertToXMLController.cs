@@ -57,7 +57,7 @@ public class ConvertToXMLController : ControllerBase
         {
             return BadRequest($"An error occurred: {ex.Message}");
         }
-        return Ok(xml);
+        return Ok("Succeded");
     }
     public string SerializeToXml<T>(T obj)
     {
